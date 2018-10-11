@@ -16,7 +16,7 @@ from .. import util
 # TODO: re-implement generic tokenizer tests
 _languages = ['bn', 'da', 'de', 'el', 'en', 'es', 'fi', 'fr', 'ga', 'he', 'hu', 'id',
               'it', 'nb', 'nl', 'pl', 'pt', 'ro', 'ru', 'sv', 'tr', 'ar', 'ut', 'tt',
-              'xx']
+              'xx', 'tl']
 
 _models = {'en': ['en_core_web_sm'],
            'de': ['de_core_news_sm'],
